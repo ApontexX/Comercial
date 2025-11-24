@@ -1,7 +1,6 @@
 # Sistema de Gestión de Inventario
 ## INTEGRANTES 
 Miguel aponte (lider)
-Cristian morales (colaborador) 
 
 ## Ejecucion del codigo
 1. Abrir desde Vscode
@@ -9,7 +8,7 @@ Cristian morales (colaborador)
 
 ## Descripcion
 
-¡Hola! Soy Cristian Morales y junto con mi compañero Miguel Aponte estamos desarrollando un sistema de gestión de inventario. Este proyecto tiene como objetivo ayudar a las empresas a administrar de manera eficiente su inventario de productos.
+¡Hola! Soy Luis Miguel Aponte estoy desarrollando un sistema de gestión de inventario. Este proyecto tiene como objetivo ayudar a las empresas a administrar de manera eficiente su inventario de productos.
 
 Funcionalidades Principales
 Registro de Productos: Podemos registrar fácilmente nuevos productos en nuestro inventario, agregando información como nombre, descripción, precio, cantidad en stock y categoría a la que pertenecen.
